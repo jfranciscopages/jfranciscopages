@@ -10,6 +10,10 @@ I started coding a few months ago and I keep learning more and more everyday.
 - 📫 How to reach me: LinkedIn - [@jfranciscopages](https://www.linkedin.com/in/jfranciscopages/)
 - ⚡ Fun fact: I'm also a musician and I like films and photography
 
+#### Skills and Experience
+* ⚛️ React
+* 📱 React Native
+* 💻 JavaScript, HTML, CSS
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfranciscopages&show_icons=true)  
