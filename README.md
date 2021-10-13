@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with Docker.
 - 💬 Ask me about JavaScript, React or any tech related stuff.
 - 📫 How to reach me: LinkedIn - [@jfranciscopages](https://www.linkedin.com/in/jfranciscopages/)
-- ⚡ Fun fact: I'm also a musician.
+- ⚡ Fun fact: I'm also a musician and I like films and photography.
