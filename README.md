@@ -13,6 +13,9 @@ I started coding a few months ago and I keep learning more and more everyday.
 * ⚛️ React
 * 📱 React Native
 * 💻 JavaScript, HTML, CSS
+* ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfranciscopages&show_icons=true)  
