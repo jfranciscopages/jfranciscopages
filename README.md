@@ -10,12 +10,16 @@ I started coding a few months ago and I keep learning more and more everyday.
 - ⚡ Fun fact: I'm also a musician and I like films and photography
 
 #### Skills and Experience
-* ⚛️ React
-* 📱 React Native
-* 💻 JavaScript, HTML, CSS
-* ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
+* ⚛️ ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
+* 💻 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=PostgreSQL) 
+  ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?style=flat&logo=express&logoColor=000000)
+* 📱 React Native
+  
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfranciscopages&show_icons=true)  
