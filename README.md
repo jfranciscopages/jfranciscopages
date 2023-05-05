@@ -1,10 +1,8 @@
 ### Hola, soy Juan Francisco! 👋
-#### I am a 24-year-old developer from Buenos Aires, Argentina.
-I started coding a few months ago and I keep learning more and more everyday.
+#### I am a 25-year-old developer from Buenos Aires, Argentina.
+I started coding about 2 years ago and I keep learning more and more everyday.
 
 - 🔭 I’m currently learning Magento.
-- 👯 I’m looking to collaborate here on GitHub.
-- 💬 Ask me about JavaScript, React or any tech related stuff.
 - 📫 How to reach me: LinkedIn - [@jfranciscopages](https://www.linkedin.com/in/jfranciscopages/)
 - ⚡ Fun fact: I'm also a musician and I like films and photography.
 
