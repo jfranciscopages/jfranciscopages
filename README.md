@@ -2,7 +2,7 @@
 #### I am a 25-year-old developer from Buenos Aires, Argentina.
 I started coding about 2 years ago and I keep learning more and more everyday.
 
-- 🔭 I’m currently learning Magento.
+- 🔭 I’m currently learning Laravel.
 - 📫 How to reach me: LinkedIn - [@jfranciscopages](https://www.linkedin.com/in/jfranciscopages/)
 - ⚡ Fun fact: I'm also a musician and I like films and photography.
 
