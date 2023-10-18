@@ -18,10 +18,11 @@ I started coding about 2 years ago and I keep learning more and more everyday.
 * 📱 React Native
   
 
-
+<>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfranciscopages&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jfranciscopages)  
+<>
 
 <br>
 <a href="https://www.codewars.com/users/jfranciscopages/">
