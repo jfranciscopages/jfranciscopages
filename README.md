@@ -1,10 +1,10 @@
 ### Hola, soy Juan Francisco! 👋
-#### I am a 25-year-old developer from Buenos Aires, Argentina.
-I started coding about 2 years ago and I keep learning more and more everyday.
+#### I am a 26-year-old developer from Buenos Aires, Argentina.
+I started coding about 3 years ago and I keep learning more and more everyday.
 
 - 🔭 I’m currently learning Laravel.
 - 📫 How to reach me: LinkedIn - [@jfranciscopages](https://www.linkedin.com/in/jfranciscopages/)
-- ⚡ Fun fact: I'm also a musician and I like films and photography.
+- ⚡ Fun fact: I'm really into cinema and photography.
 
 #### Skills and Experience
 * ⚛️ ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
