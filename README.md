@@ -24,7 +24,8 @@ I started coding about 4 years ago and I keep learning more and more everyday.
 
 
 **E-commerce**  
-🛒 ![Magento](https://img.shields.io/badge/-Magento-FFFFFF?style=flat&logo=magento)
+🛒 ![Magento - Adobe Commerce](https://img.shields.io/badge/Adobe_Commerce-FFFFFF?style=flat&logo=adobe&logoColor=FF0000)
+
   
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfranciscopages&show_icons=true) -->
 <br>
