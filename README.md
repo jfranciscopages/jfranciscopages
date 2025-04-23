@@ -1,6 +1,6 @@
 ### Hola, soy Juan Francisco! 👋
 #### I am a 27-year-old developer from Buenos Aires, Argentina.
-I started coding about 3 years ago and I keep learning more and more everyday.
+I started coding about 4 years ago and I keep learning more and more everyday.
 #### Skills and Experience
 
 **Frontend**  
