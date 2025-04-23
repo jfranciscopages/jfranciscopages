@@ -18,9 +18,13 @@ I started coding about 4 years ago and I keep learning more and more everyday.
 **Mobile**  
 📱 ![Flutter](https://img.shields.io/badge/-Flutter-FFFFFF?style=flat&logo=flutter)
 
-**Database**  
+**Database & Cloud**  
 🗄️ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=PostgreSQL)
+☁️ ![Firebase](https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=firebase)
 
+
+**E-commerce**  
+🛒 ![Magento](https://img.shields.io/badge/-Magento-FFFFFF?style=flat&logo=magento)
   
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfranciscopages&show_icons=true) -->
 <br>
