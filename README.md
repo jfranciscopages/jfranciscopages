@@ -21,11 +21,6 @@ I started coding about 4 years ago and I keep learning more and more everyday.
 **Database & Cloud**  
 🗄️ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFFFFF?style=flat&logo=PostgreSQL)
 ☁️ ![Firebase](https://img.shields.io/badge/-Firebase-FFFFFF?style=flat&logo=firebase)
-
-
-**E-commerce**  
-🛒 ![Magento - Adobe Commerce](https://img.shields.io/badge/Adobe_Commerce-FFFFFF?style=flat&logo=adobe&logoColor=FF0000)
-
   
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfranciscopages&show_icons=true) -->
 <br>
