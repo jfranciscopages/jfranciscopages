@@ -13,7 +13,7 @@ I started coding about 3 years ago and I keep learning more and more everyday.
 **Backend**  
 🛠️ ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-FFFFFF?style=flat&logo=laravel)
-![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=java)
+![Java 17](https://img.shields.io/badge/Java_17-FFFFFF?style=flat&logo=openjdk&logoColor=orange)
 
 **Mobile**  
 📱 ![Flutter](https://img.shields.io/badge/-Flutter-FFFFFF?style=flat&logo=flutter)
